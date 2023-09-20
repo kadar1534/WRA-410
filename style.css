@@ -1,0 +1,44 @@
+/* CSS rule to style the heading */
+h1 {
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+}
+
+/* CSS rule to style paragraphs */
+p {
+    font-family: Arial, sans-serif;
+    line-height: 2.0;
+}
+
+/* CSS rule to style the image */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background-color: green;
+  }
+
+  p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
